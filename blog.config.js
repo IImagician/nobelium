@@ -2,7 +2,7 @@ const BLOG = {
   title: 'CRAIGARY',
   author: 'Craig Hart',
   email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://magician.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -38,7 +38,7 @@ const BLOG = {
     gitalkConfig: {
       repo: '', // The repository of store comments
       owner: '',
-      admin: [],
+      admin: [lichen],
       clientID: '',
       clientSecret: '',
       distractionFreeMode: false
